@@ -1,5 +1,5 @@
 {
-  "name": "my-simple-calculator",
+  "name": "my1st-simple-calculator",
   "version": "1.0.0",
   "description": "Creating a calculator by using typeScript",
   "main": "index.js",
